@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout with empty field</description>
+   <name>Checkout - 02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ea5db1-8227-4d89-9a3f-1d1dfb0715d5</testCaseGuid>
+</TestCaseEntity>
