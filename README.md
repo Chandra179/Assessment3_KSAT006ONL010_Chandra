@@ -33,21 +33,21 @@
 
 ## Test Case <br>
 
-1. Layout `Phone layouts` <br>
-- `Header` - Test case to verify `Application name, search button, cart button`
-- `Navigation bar` - Test case to verify `category, profile, help, recent` menu
+1. Edit profile <br>
+  1.1 Edit profile with `Valid input` 
+  1.2 Edit profile with `Invalid input`
 
 <br>
 
-2. Navigation bar items <br>
-- `Category items` - Test case to verify `category items`
-- `Help items` - Test case to verify `help items`
-- `Profile items` - Test case to verify `profile items`
+2. Verify cart items <br>
+  2.1 Verify home page `product` same as product details page `product`
+  2.2 Verify product details page `product` same as cart page `product`
 
 <br>
 
-3. Verify cart items <br>
-- Test case to verify product is successfuly `added` to cart
+3. Checkout <br>
+  3.1 Checkout form with valid field input
+  3.2 Checkout form with invalid field input
 
 <br>
 
