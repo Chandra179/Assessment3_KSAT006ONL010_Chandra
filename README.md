@@ -34,19 +34,19 @@
 ## Test Case <br>
 
 1. Edit profile <br>
-  1.1 Edit profile with `Valid input` 
+  1.1 Edit profile with `Valid input` <br>
   1.2 Edit profile with `Invalid input`
 
 <br>
 
 2. Verify cart items <br>
-  2.1 Verify home page `product` same as product details page `product`
+  2.1 Verify home page `product` same as product details page `product` <br>
   2.2 Verify product details page `product` same as cart page `product`
 
 <br>
 
 3. Checkout <br>
-  3.1 Checkout form with valid field input
+  3.1 Checkout form with valid field input <br>
   3.2 Checkout form with invalid field input
 
 <br>
