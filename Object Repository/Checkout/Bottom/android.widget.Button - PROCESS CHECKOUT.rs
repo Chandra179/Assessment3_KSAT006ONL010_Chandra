@@ -3,16 +3,16 @@
    <description></description>
    <name>android.widget.Button - PROCESS CHECKOUT</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>985bb1bb-65db-49fd-9511-ab26f4de9093</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>eada24a4-e51f-4d05-b71a-bf7af1954050</webElementGuid>
+      <webElementGuid>53cafe79-0c4a-4e0a-a027-2eed1d977d4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,23 +20,23 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e7e75205-1cc7-42d9-a9df-6091c405189f</webElementGuid>
+      <webElementGuid>8edcd9b3-304f-4295-bdcc-f5b2641ce732</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>PROCESS CHECKOUT</value>
-      <webElementGuid>08deaa5b-33d5-4782-aae6-b7edc36ee96f</webElementGuid>
+      <webElementGuid>573973ad-b1b2-474a-84c3-b8a8c2b4e929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
       <value>com.solodroid.solomerce:id/btn_submit_order</value>
-      <webElementGuid>8fde68f5-2318-4f41-ae2e-cb62d52a76cf</webElementGuid>
+      <webElementGuid>972851ce-20e1-406d-9286-6993e18b2fa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.solodroid.solomerce</value>
-      <webElementGuid>75a1ba04-f9e1-4130-9dda-810729f5363d</webElementGuid>
+      <webElementGuid>eb1e2404-67c6-4e05-9c41-2fdaa63f2573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d9eeefda-e377-44e6-bf04-5d5f196128e0</webElementGuid>
+      <webElementGuid>2d28082f-ac46-4940-b225-1ef660185f56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>339dbf5a-954b-47b5-b949-846669f6930e</webElementGuid>
+      <webElementGuid>69946eab-5daf-45db-a0aa-ca0ca36af258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>83641f62-1ed8-4cc2-b43f-544178b7c013</webElementGuid>
+      <webElementGuid>c8dc4789-69fe-4ae6-9c43-915fdc357dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9f81dd0f-8b22-42e9-aef4-589c41311e7f</webElementGuid>
+      <webElementGuid>59ec643a-203d-48f3-ba12-490be8b48a47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9aa8ba6e-f433-40ac-83b4-6fd8a7eed42a</webElementGuid>
+      <webElementGuid>67fc71cd-c87c-45ce-93b0-b7c01f549c6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>613eb3ef-487d-4f43-9bf5-3d5e2d55c264</webElementGuid>
+      <webElementGuid>1087b62c-d133-4ad7-8b13-cd8fe02a9260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>af668b24-3893-48a5-9880-b4fbc5763e4a</webElementGuid>
+      <webElementGuid>d66c8c21-da54-467f-8fc8-95088495cc05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5f8720f3-6efa-4360-a424-4cc6830a22fc</webElementGuid>
+      <webElementGuid>6ee7f3dd-6aab-4a32-85e0-1d6617755e22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1df8a898-0447-4aca-a631-2ad4f21566bf</webElementGuid>
+      <webElementGuid>098e0eb5-7bdb-498d-88e5-fcd2cac1b912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>68acb309-e515-4fc2-abf9-481abf157c52</webElementGuid>
+      <webElementGuid>3545d2e5-fe11-42e4-bc8c-b1ffee88e42c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c1d9a8fb-1319-4dd9-8dde-44fafab5eb2a</webElementGuid>
+      <webElementGuid>4f84d8c3-2440-49bf-9dae-3be7b18c14f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1876</value>
-      <webElementGuid>921b5ec3-e36a-47b7-8eb5-6c6c121959a5</webElementGuid>
+      <webElementGuid>296fefa8-56fd-4fcb-acbe-aa7bdd70c179</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1080</value>
-      <webElementGuid>595721ab-d741-47cd-a976-e3e8db806d6e</webElementGuid>
+      <webElementGuid>dc433232-0036-47f7-9f4a-313c56e1eed0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>height</name>
       <type>Main</type>
       <value>154</value>
-      <webElementGuid>6f34e6d5-41f3-4d15-b10c-49236224a227</webElementGuid>
+      <webElementGuid>00b7b5bd-257c-4435-9743-4a5087cf9c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[0,1876][1080,2030]</value>
-      <webElementGuid>ad3fb5ea-3078-41eb-8821-a54fbb16e6bc</webElementGuid>
+      <webElementGuid>18faff4f-bc31-478b-b0e9-941eab4ecc68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>10e467d9-12fc-404c-a6e8-403ed1eee115</webElementGuid>
+      <webElementGuid>3e96b422-0984-43c5-84c9-0f05d923eba9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.Button[1]</value>
-      <webElementGuid>a7c00fd0-9d79-4240-a24b-cfca7d1f35b8</webElementGuid>
+      <webElementGuid>4febc776-24c1-454b-b8e7-741b787b8cb7</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and (@text = 'PROCESS CHECKOUT' or . = 'PROCESS CHECKOUT') and @resource-id = 'com.solodroid.solomerce:id/btn_submit_order']</locator>
+   <locator>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.Button[1]</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

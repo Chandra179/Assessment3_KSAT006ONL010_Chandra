@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>invalid and empty input</description>
+   <name>Checkout - 02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e4914b5-bbbf-4787-b61e-799a0ac44034</testCaseGuid>
+</TestCaseEntity>
