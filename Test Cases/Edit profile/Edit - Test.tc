@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit - Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e247ee59-81c3-4e54-93a3-5dcc261220b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afd58747-b37e-453f-8bd1-e3cd986b09fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b345a370-85c0-4e30-ab88-a3fd1b705c64</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51ee6767-a309-48b9-b366-8a8fcae37765</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1793f3e2-b17b-4c51-b0a9-f8a087f6700a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ok'</defaultValue>
+      <description></description>
+      <id>afd58747-b37e-453f-8bd1-e3cd986b09fe</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'ok@gmail.com'</defaultValue>
+      <description></description>
+      <id>b345a370-85c0-4e30-ab88-a3fd1b705c64</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'2534'</defaultValue>
+      <description></description>
+      <id>51ee6767-a309-48b9-b366-8a8fcae37765</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'jl. ma no 9'</defaultValue>
+      <description></description>
+      <id>1793f3e2-b17b-4c51-b0a9-f8a087f6700a</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

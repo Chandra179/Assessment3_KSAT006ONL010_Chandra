@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Edit profile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>735f49ff-68b7-4b1c-81fc-cbe7d67c6a5f</testSuiteGuid>
+   <testCaseLink>
+      <guid>953b1b65-3c36-4d11-a0b7-1fa16179a2f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Edit profile/Edit</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d03b2c06-8a32-4383-85c1-346e908b72a3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/test-data-profile</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d03b2c06-8a32-4383-85c1-346e908b72a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>86b64068-87ee-4d5c-a4bc-4ab931147853</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d03b2c06-8a32-4383-85c1-346e908b72a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>9cb0dc29-736b-4da2-bf92-e91cae524cb6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d03b2c06-8a32-4383-85c1-346e908b72a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone</value>
+         <variableId>5780fc37-4dd4-44fc-8b96-cb54c3efb786</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d03b2c06-8a32-4383-85c1-346e908b72a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>address</value>
+         <variableId>e09ea5a7-9186-44a7-b61a-9aaa114a9062</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
